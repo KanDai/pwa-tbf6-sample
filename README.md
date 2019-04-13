@@ -1,6 +1,9 @@
-# bookshelf-app
+# Nuxt.jsとFirebaseを使った本棚アプリ
 
-> My ultimate Nuxt.js project
+技術書典6で販売された「実践PWA」の「社内システムから始めるPWA」で紹介した「本棚アプリ」のサンプルです。
+
+電子書籍版はこちら [実践PWA](https://pwanight.booth.pm/items/1312648)
+
 
 ## Build Setup
 
